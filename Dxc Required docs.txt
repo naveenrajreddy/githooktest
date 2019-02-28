@@ -1,0 +1,55 @@
+1 Relieving letter from previous employer
+Original Required for Verification: Yes
+No. of Copies: Two
+2 Letters supporting Employment viz., Offer letter, Service Certificate
+Original Required for Verification: Yes
+No of Copies: Two
+3 Salary details of previous Employment
+Original Required for Verification: Yes
+No. of Copies: Two
+4 Education Certificates or Mark sheets with Provisional Certificates 10th to Highest Degree
+Original Required for Verification: Yes
+No of Copies: Two
+5 Copy of PAN card/Application ID for PAN card applied
+Original Required for Verification: No
+No. of Copies: One
+6 Age Proof Copy of Passport or Pan card or Driving license
+Original Required for Verification: No
+No. of Copies: One
+7 Photo identity proof Copy of PAN Card or Passport or Driving license
+Original Required for Verification: No
+No of Copies: One
+8 Address Proof to open bank account for salary credit Copy of Rental Agreement or Driving license or
+Voter's ID If you want to give Bangalore address for all communication in Citibank account form, please
+bring a copy of address proof that has your name
+Original Required for Verification: Yes
+No of Copies: One
+9 Four passport size color photographs. Please note that 1 passport size photograph should specifically
+have a Navy Blue background. It is standard as per Company policy. No other types of photographs
+would be accepted.
+Original Required for Verification: Yes
+No of Copies: Four
+
+10 NSR Registration Number
+11 Note down your parents' dates of birth for nomination in PF, Gratuity
+
+Department Number
+E0008AD00000LV00
+
+Requester
+snanjundappa@csc.com
+
+topics for tommorow
+sorting
+conditional verbs(if,Else,Evaluate,Nested if)
+copy books
+
+
+
+Participates as a member of development team.
+Completes development of units with designs prepared by more senior developers.
+Participates in code reviews.
+Prepares and executes unit tests.
+Applies growing technical knowledge to maintain a technology area (e.g. Agile Methodology, WCF, MVC, Kendo UI etc.,).
+Performs work assigned by others.
+Accountable for own work.
